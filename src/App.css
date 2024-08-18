@@ -1,0 +1,41 @@
+body {
+  font-family: "Kumbh Sans";
+  font-weight: 400;
+}
+.active {
+  border-left: 2px solid white;
+}
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("././assets/Fonts/KumbhSans-Regular.woff2") format("woff2"),
+    url("././assets/Fonts/KumbhSans-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("././assets/Fonts/KumbhSans-Bold.woff2") format("woff2"),
+    url("././assets/Fonts/KumbhSans-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("././assets/Fonts/KumbhSans-SemiBold.woff2") format("woff2"),
+    url("././assets//Fonts/KumbhSans-SemiBold.woff") format("woff");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Kumbh Sans";
+  src: url("././assets/Fonts/KumbhSans-Medium.woff2") format("woff2"),
+    url("././assets/Fonts/KumbhSans-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
